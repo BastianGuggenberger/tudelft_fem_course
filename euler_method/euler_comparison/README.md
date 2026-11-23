@@ -1,5 +1,7 @@
 # Implicit vs. Explicit Euler Method
 
+![Implicit vs. Explicit Euler Method](plot.png)
+
 Mini project comparing the **explicit** and **implicit Euler method** on the simple linear ODE
 
     f'(x) = a · f(x),   f(0) = 1

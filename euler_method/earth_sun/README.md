@@ -1,5 +1,7 @@
 # Earth Falling into the Sun – Explicit Euler Method
 
+<img src="euler_method/earth_sun/earthsun.png" alt="Earth and Sun: time evolution with the Euler method" width="400">
+
 Mini project demonstrating the **explicit Euler method** on a physical example:
 the Earth is suddenly stopped (v = 0 at 1 AU) and falls radially into the Sun.
 

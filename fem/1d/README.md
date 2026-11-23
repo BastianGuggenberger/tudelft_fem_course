@@ -1,5 +1,7 @@
 # 1D FEM (Julia & Python)
 
+![1D FEM Solution (Python)](fem_py_1d.png)
+
 Solves -u'' = f with f(x) = x² on [0,1] using linear (P1) elements, for N = 2, 4, ..., 20 elements to show convergence.
 
 - **Boundary:** Dirichlet u(0) = 0, natural (zero-flux) at x = 1
