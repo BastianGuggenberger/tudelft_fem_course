@@ -26,13 +26,9 @@ Time-independent (static) finite element analysis of elastic structures:
 
 #### `1d/`
 
-![1D FEM solution and convergence study](fem/1d/fem_1d.png)
-
 1D finite elements with linear shape functions, in both Julia and Python, including a convergence study over increasing mesh resolution.
 
 #### `2d/`
-
-![2D FEM solution on a triangular Gmsh mesh](fem/2d/fem_2d.png)
 
 2D finite elements on triangular meshes generated with Gmsh, including assembly of the stiffness matrix and load vector, Dirichlet boundary conditions, and visualization of the solution.
 
